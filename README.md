@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently studying Computer Science at the University of Limerick. I have a great interest in programming and all things tech related. I have utilized various programming languages through past work experience and college. Some of these languages include Java, C, C++, Python, JavaScript, HTML, CSS, SQL and C#. 👋
 
 <!--
 **oisbert/oisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
