@@ -1,5 +1,6 @@
-Currently studying Computer Science at the University of Limerick. I have a great interest in programming and all things tech related. I have utilized various programming languages through past work experience and college. Some of these languages include Java, C, C++, Python, JavaScript, HTML, CSS, SQL and C#. 👋
+I graduated from the University of Limerick attaining a First Class Honors (1:1) in Computer Systems. I have a great interest in programming and all things tech related. I have utilized various programming languages through past work experience and college. Some of these languages include Java, C, C++, Python, JavaScript, HTML, CSS, PhP, SQL and C#. I also have experience working on MVC frameworks such as Django, jQuery and React. As well as this I have deployed various applications on backend server hosting platforms such as AWS, firebase, heroku and google cloud services. Follow this link to check out my GitHub: https://github.com/oisbert
 
+Currently I am working as a graduate software engineer in Analog Devices. My core responsibilities are Contributing to the design and development of software tools for customers on Linux and Windows PC platforms. Develop and execute software test plans and documentation. Perform code quality practices such as code reviews, static analysis, automated testing and implement software quality improvement initiatives😎
 <!--
 **oisbert/oisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
