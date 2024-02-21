@@ -1,8 +1,12 @@
-I graduated from the University of Limerick attaining a First Class Honors (1:1) in Computer Systems. I have a great interest in programming and all things tech related. I have utilized various programming languages through past work experience and college. Some of these languages include Java, C, C++, Python, JavaScript, HTML, CSS, PhP, SQL and C#. I also have experience working on MVC frameworks such as Django. As well as this I have deployed various applications on backend server hosting platforms such as AWS, firebase, heroku and google cloud services. 
+🎓 I graduated from the University of Limerick with a First Class Honors (1:1) in Computer Systems. My passion lies in programming and all things tech-related. I've had the opportunity to work with various programming languages, including Java, C, C++, Python, JavaScript, HTML, CSS, PhP, SQL, and C#. Additionally, I'm proficient in MVC frameworks like Django.
 
-I also worked as an associate software engineer at Analog Devices. My core responsibilities are Contributing to the design and development of software tools for customers on Linux and Windows PC platforms. Develop and execute software test plans and documentation. Perform code quality practices such as code reviews, static analysis, automated testing and implement software quality improvement initiatives
+💼 Previously, I worked as an Associate Software Engineer at Analog Devices, where I contributed to designing and developing software tools for customers on Linux and Windows PC platforms. My responsibilities also included developing and executing software test plans, along with performing code quality practices such as code reviews, static analysis, and automated testing.
 
-Currently I am working as a software engineer at Zerve AI. Working on ground breaking architecture for the future of data science and AI development.
+🚀 Currently, I am working as a Software Engineer at Zerve AI, where I'm involved in developing groundbreaking architecture for the future of data science and AI development. My role allows me to leverage my diverse skill set and create impactful solutions.
+
+🌱 I'm always eager to learn and explore new technologies and methodologies to enhance my expertise further. I have experience deploying applications on backend server hosting platforms such as AWS, Firebase, Heroku, and Google Cloud Services.
+
+📫 You can reach me at your_email@example.com for any collaboration or discussion opportunities.
 
 <!--
 **oisbert/oisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
