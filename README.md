@@ -6,8 +6,6 @@
 
 🌱 I'm always eager to learn and explore new technologies and methodologies to enhance my expertise further. I have experience deploying applications on backend server hosting platforms such as AWS, Firebase, Heroku, and Google Cloud Services.
 
-📫 You can reach me at your_email@example.com for any collaboration or discussion opportunities.
-
 <!--
 **oisbert/oisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
